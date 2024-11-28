@@ -1,1 +1,0 @@
-<apex:page >START_SESSION_ID{!$Api.Session_ID}END_SESSION_ID</apex:page>
